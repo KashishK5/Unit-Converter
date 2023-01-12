@@ -1,0 +1,66 @@
+.container {
+    background-color:cadetblue;
+    color:white;
+    text-align: center;
+    width:auto;
+    height: 300px;
+    padding-top: 5px;
+    font-weight: bolder;
+}
+
+input {
+    background-color: cadetblue;
+    color:white;
+    width: 10%;
+    height: 40%;
+    padding:10px;
+    border-radius: 7px;
+    border: 2px solid white;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 80px;
+    font-weight: bold;
+}
+
+button {
+    background: white;
+    padding: 20px 35px;
+    border: 1px solid white;
+    border-radius: 7px;
+    font-size: 0.46cm;
+    font-weight: bold;
+}
+.length {
+    background-color:burlywood;
+    color:brown;
+    text-align: center;
+    width: 38cm;
+    height: 110px;
+    padding-top: 10px;
+    font-weight: bolder;
+    margin: 17px 2cm 17px 0.9cm;
+}
+
+.volume {
+background-color:burlywood;
+    color:brown;
+    text-align: center;
+    width:38cm;
+    height: 110px;
+    padding-top: 10px;
+    font-weight: bolder;
+    margin: 0px 2cm 17px 0.9cm;
+}
+
+.mass {
+    background-color:burlywood;
+    color:brown;
+    text-align: center;
+    width:38cm;
+    height: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bolder;
+    margin: 0px 2cm 17px 0.9cm;
+
+}
